@@ -14,11 +14,12 @@
 
 <br>
 
+<i>
 - A passionate Front-end developer
 -  I love listen to music and reading in my spare time
 - Currently learning Web Development  studing in bachelor's degree in computer science (web development emphasis)
 - Personal website [link](https://alexwebdesigner.netlify.app/)
-- I’m currently open for an Intern or a new job opportunity.
+- I’m currently open for an Intern or a new job opportunity.</i>
 
 <br><br>
 
@@ -93,7 +94,7 @@
 
 <div align='center'>
 
-A difficult but beautiful path✨</b>
+<b> A difficult but beautiful path✨</b>
 
 </div>
 <br>
